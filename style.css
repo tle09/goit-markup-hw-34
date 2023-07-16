@@ -120,6 +120,7 @@ header {
     gap: 30px;
     margin-right: 115px;
     margin-left: 115px;
+    flex-wrap: nowrap;
 }
 
 .feature {
